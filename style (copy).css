@@ -1,0 +1,103 @@
+.experience{
+  float: left;
+  width: 50%;
+  border-style: hidden;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+.hex{
+}
+.compe{
+  margin-left:50%;
+  border-style: hidden;
+  margin-top: 60px;
+  padding-bottom: 30px;
+}
+
+html{
+  background-color: #26cbe3
+}
+body{
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  margin-top: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #42dcc8;
+  padding-left: 25px;
+}
+h2{
+  color: #39beac;
+}
+h2::before{
+  content: "→ ";
+}
+h3{
+  color: #42dcc8;
+  margin-bottom: 0px;
+}
+.titre{
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+.es{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.url{
+  padding-left: 25px;
+  margin-top: 0;
+  font-style: italic;
+  margin-bottom: 0px;
+}
+.exlieu{
+  margin: 0 0 0 0 ;
+  font-style: italic;
+  font-size: 13px;
+  padding-left: 5px;
+}
+li{
+  list-style-type: square;
+  color : color: #42dcc8;
+}
+.etoile{
+  color: #42dcc8;
+  text-align:right;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  list-style-type: none;
+
+
+}
+
+.boite{
+     display: inline-flex;
+     margin: auto;
+
+}
+.dboite{
+  width: 200px;
+  display: inline-flex;
+}
+.tachef{
+  margin-left: 20px;
+}
+.boited{
+  display: inline-flex;
+  background-color: white;
+}
+.dboited{
+  width: 600px;
+
+}
+.coor{
+  list-style-type: none;
+  text-align: right;
+  width: 150px;
+  font-style: italic;
+}

@@ -1,0 +1,138 @@
+.experience{
+  border-right: dotted;
+  border-color: #43dcc8;
+  padding-left: 20px;
+  padding-right: 30px;
+  width: 45%
+}
+.hex{
+}
+.compe{
+  width: 55%
+}
+.compe > h2{
+  border-top : dotted;
+  border-color: #43dcc8;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+.compe > h3{
+  padding-left: 15px;
+}
+.compe > p{
+  padding-left: 20px;
+}
+
+html{
+  background-color: #43dcc8;
+}
+body{
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  margin-top: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #42dcc8;
+  padding-left: 25px;
+}
+h2{
+  color: #39beac;
+}
+h2::before{
+  content: "→ ";
+}
+h3{
+  color: #42dcc8;
+  margin-bottom: 0px;
+}
+.titre{
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+.es{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.url{
+  padding-left: 25px;
+  margin-top: 0;
+  font-style: italic;
+  margin-bottom: 0px;
+}
+.exlieu{
+  margin: 0 0 0 0 ;
+  font-style: italic;
+  font-size: 13px;
+  padding-left: 5px;
+}
+li{
+  list-style-type: square;
+  color : color: #42dcc8;
+}
+.etoile{
+  color: #42dcc8;
+  text-align:right;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  list-style-type: none;
+
+
+}
+
+.boite{
+     display: inline-flex;
+     margin: auto;
+     margin-left: 15px;
+}
+#deux{
+  margin-left: 15px;
+}
+.dboite{
+  width: 200px;
+  display: inline-flex;
+}
+.tachef{
+  margin-left: 20px;
+}
+.boited{
+  display: inline-flex;
+  width: 900px;
+  padding-bottom: 25px;
+  position: fixed;
+  background-image: url(picture.png);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-color: white;
+  border-bottom: dotted;
+  border-color: #43dcc8;
+}
+.dboited{
+  width: 600px;
+
+}
+.coor{
+  list-style-type: none;
+  text-align: right;
+  width : 280px;
+  font-style: italic;
+}
+main{
+  display: inline-flex;
+  padding-top: 200px;
+  width: 100%;
+}
+#nop{
+  border-top: none !important;
+  padding-top: 0px;
+}
+.test{
+  text-align:
+}
+.tache>li{
+  list-style-type: none;
+}
